@@ -1,0 +1,5 @@
+{
+  "name": "LEKZ",
+  "description": "A gamified semester revision platform for college students featuring interactive quizzes, digital workspaces, and avatar-based engagement.",
+  "requestFramePermissions": ["camera"]
+}
